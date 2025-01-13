@@ -1,4 +1,4 @@
-// Beats 88.11% of submissions for runtime.
+// Beats 88.11% of submissions for execution time.
 // Beats 71.87% of submissions for memory usage.
 
 class Solution {
