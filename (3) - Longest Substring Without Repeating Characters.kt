@@ -1,6 +1,6 @@
 // Beats 79.64% of submissions for execution time.
 // Beats 58.66% of submissions for memory usage.
-
+/*
 class Solution {
     fun lengthOfLongestSubstring(s: String): Int {
         var right: Int = 0
@@ -22,3 +22,4 @@ class Solution {
         return if (right - left > longest) (right - left) else longest
     }
 }
+*/

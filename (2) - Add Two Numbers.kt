@@ -1,6 +1,6 @@
 // Beats 100.00% of submissions for execution time.
 // Beats 98.27% of submissions for memory usage.
-
+/*
 class Solution {
     fun addTwoNodes(l1: ListNode?, l2: ListNode?, carry: Int): ListNode? {
         if (l1 == null && l2 == null) {
@@ -25,3 +25,4 @@ class Solution {
         return addTwoNodes(l1, l2, 0)
     }
 }
+*/
