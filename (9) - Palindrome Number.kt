@@ -37,6 +37,7 @@ class Solution {
 class Solution {
     fun isPalindrome(x: Int): Boolean {
         if (x < 0 || (x != 0 && x % 10 == 0)) return false
+        if (x == 0) return true
         var num1: Int = x
         var num2: Int = 0
         while (num1 > 0) {
