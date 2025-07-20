@@ -1,6 +1,7 @@
 // Beats 81.99% of submissions for execution time.
 // Beats 86.01% of submissions for memory usage.
 
+
 class Solution {
     fun convert(s: String, numRows: Int): String {
         if (numRows == 1) {
@@ -25,11 +26,4 @@ class Solution {
 
         return builder.toString()
     }
-}
-
-fun main() {
-    val phrase: String = "AB"
-    val numRows: Int = 1
-    val solution: Solution = Solution()
-    println("Result: ${solution.convert(phrase, numRows)}")
 }

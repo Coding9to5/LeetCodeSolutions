@@ -1,6 +1,6 @@
 // Beats 88.11% of submissions for execution time.
 // Beats 71.87% of submissions for memory usage.
-/*
+
 class Solution {
     fun twoSum(nums: IntArray, target: Int): IntArray {
         val hashMap: HashMap<Int, Int> = hashMapOf()
@@ -19,4 +19,3 @@ class Solution {
         return intArrayOf()
     }
 }
-*/
